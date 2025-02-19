@@ -1,5 +1,7 @@
 # Ignore the src folder
 src/
+api/
+aspnet_client/
 
 # Ignore contact.asp file
 contact.asp
