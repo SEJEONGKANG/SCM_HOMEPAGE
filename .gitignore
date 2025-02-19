@@ -1,0 +1,29 @@
+# Ignore the src folder
+src/
+
+# Ignore contact.asp file
+contact.asp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore compiled files
+*.exe
+*.dll
+*.obj
+*.o
+
+# Ignore dependency folders
+node_modules/
+venv/
+__pycache__/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
